@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi there, I'm Ayan Nawaz 👋
 
-<!--
-**Ayan-nawaz/Ayan-nawaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+🎓 CSE Student at SASTRA Deemed University  
+💻 Passionate about Programming & Technology  
+🌱 Currently learning C++, Git & GitHub  
+🎯 Goal: Become a Software Engineer and Build Impactful Projects
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- 💻 C++
+- 🌿 Git
+- 🐙 GitHub
+
+---
+
+## 📚 Currently Working On
+✨ Data Structures & Algorithms  
+✨ Problem Solving  
+✨ Open Source Journey
+
+---
+
+## 📈 GitHub Goals
+✅ Build Amazing Projects  
+✅ Contribute to Open Source  
+✅ Learn New Technologies Every Day
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: (https://www.linkedin.com/in/s-ayan-nawaz-9516643ba?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+
+---
+
+⭐ *"Turning Ideas into Code, One Commit at a Time."* 🚀
